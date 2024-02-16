@@ -387,4 +387,60 @@ h2 p{
     line-height: 1.5rem;
     
   }
+  .contatosection{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    height: 699px;
+    gap: 125px;
+    background-color: rgb(255, 255, 255);   
+    
+  }
+  .group28{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 480px;
+    height: 304px;
+    gap: 20px;
+  }
+  .group28-email,
+  .group28-address{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    font-size: 16px;
+    color: #000;
+    line-height: 24px;
+  }
+  .button-group28{
+    width: 267px;
+    height: 56px;
+    font-size: 14px;
+    border: solid 1px #fff;
+    color: #fff;
+    background-color: rgb(0, 133, 111, 1);
+    font-family: 'DM Sans', sans-serif;
+    border-radius: 40px;
+    padding: 16px 32px;
+    gap:16px;
+    cursor: pointer;
+  }
+  .button-group28>.fa-whatsapp {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0 8px 10px;
+  }
+  .fa-map-marker,
+  .fa-envelope-o{
+    color:#00856f;
+    height: 24px;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px 0;
+    
+    
+  }
 
