@@ -343,4 +343,48 @@ h2 p{
     top: 50%;
     transform: translate(-50%, -50%);
 }
+.sobresection{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    height: 734px;
+    gap: 75px;
+    background-color: rgb(255, 250, 241);
+    
+  }
+
+  .sobresection>.group25{
+    font-family: 'DM Sans';
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 327px;
+    width: 573px;
+    gap:16px;
+    
+    
+    
+  }
+
+  .group25>.sobreslovo{
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+    color: #00856f;
+    font-weight: bold;
+    
+  }
+
+  .tittle{
+    font-size: 40px;
+    line-height: 52.08px;
+    font-weight:bold;
+    
+  }
+
+  .sobretext{
+    font-size: 1rem;
+    line-height: 1.5rem;
+    
+  }
 
