@@ -443,4 +443,35 @@ h2 p{
     
     
   }
+  .container{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00856f;
+    height: 268px;
+  }
+  .group29{
+    color: #fff;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 125px;
+    gap: 20px;
+  }
+ 
+  .socials{
+    display: flex;
+    margin-right: 125px;
+    gap: 50px;
+    
+  }
+  .socials>.mygtuka{
+    color:#fff;
+    text-decoration: none;
+    font-size: 30px;
+    
+    
+    
+  }
 
