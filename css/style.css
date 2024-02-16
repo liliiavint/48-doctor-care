@@ -443,7 +443,7 @@ h2 p{
     
     
   }
-  .container{
+  .footer{
     display: flex;
     flex-direction:row;
     justify-content: space-between;
@@ -474,4 +474,4 @@ h2 p{
     
     
   }
-
+ 
