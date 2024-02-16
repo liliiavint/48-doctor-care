@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.background-head{
+    background-color:rgb(0, 133, 111);
+    height: 72px;
+}
+.background-section{
+    background-color:rgb(220, 233, 226);
+    height: 72px;
+}
+.background-herosection{
+    background-color:rgb(220, 233, 226);
+    height: 606px;
+}
+.background-servisossection{
+    background-color:rgb(247, 249, 249);
+    height: 1082px;
+}
+.background-sobresection{
+    background-color:rgb(255, 250, 241);
+    height: 734px;
+}
+.background-contatosection{
+    background-color:rgb(255, 255, 255);
+    height: 699px;
+}
+.background-footer{
+    background-color:rgb(0, 133, 111);
+    height: 268px;
+}
