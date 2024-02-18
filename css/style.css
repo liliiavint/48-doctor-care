@@ -470,8 +470,37 @@ h2 p{
     color:#fff;
     text-decoration: none;
     font-size: 30px;
-    
-    
-    
+       
   }
+  
+@media (max-width: 1100px) {
+    .box-size{
+        width: 50rem;
+        margin: 0 calc(50% - 25rem);
+    }
+}
+
+@media (max-width: 900px) {
+    .box-size {
+        width: 38rem;
+        margin: 0 calc(50% - 19rem);
+    }
+}
+
+@media (max-width: 700px) {
+    .box-size{
+        width: 25rem;
+        margin: 0 calc(50% - 12.5rem);
+    }
+}
+
+@media (max-width: 460px) {
+    .box-size {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .box-size {
+        --w: 100%;
+    }
+}
  
