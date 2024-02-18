@@ -474,7 +474,7 @@ h2 p{
   }
   
 @media (max-width: 1100px) {
-    .box-size{
+    .box-size {
         width: 50rem;
         margin: 0 calc(50% - 25rem);
     }
